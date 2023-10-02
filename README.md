@@ -1,6 +1,6 @@
 
-<h1 align="center">
-    <p>Hi there, I'm J Breuer</p>
+<h1 align='center'>
+    Hi there, I'm J Breuer
 </h1>
 
 <h3 align="center">
