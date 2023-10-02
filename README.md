@@ -4,16 +4,6 @@
 </h1>
 
 
-<h3 align="center">
-    <i>I go by J, my first name is legally just the letter "J"</i><br/><br/>
-    How to reach me:<br/><br/>
-    <a href="mailto:jmbreuer@vt.edu">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/jmbreuer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-</h3>
 
 ***
 
