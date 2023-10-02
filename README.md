@@ -1,18 +1,18 @@
 
-<h1 align='center'>
+<h1 align="center">
     Hi there, I'm J Breuer
 </h1>
 
-<h3 align="center">
-    <i>I go by J, my first name is legally just the letter "J"</i><br/><br/>
-    How to reach me:<br/><br/>
+<p align="center">
+    <i>I go by J, my first name is legally just the letter "J"</i><br/>
+    <b>How to reach me</b>:<br/>
     <a href="mailto:jmbreuer@vt.edu">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/jmbreuer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-</h3>
+</p>
 
 <h2>
     <u>About me:</u>
@@ -20,7 +20,7 @@
 
 <h3>
     I'm a Data Scientist, Data Engineer, or Machine Learning Engineer depending on the day who enjoys productionizing analytics (typically natural language processing) and solving the problems posed by streaming big data at scale.  In my free time I work within my custom development environment on my 
-    <a href="https://pcpartpicker.com/user/jbreuer2/saved/gXCkJx">60 TB in-home workstation</a>    
+    <a href="https://pcpartpicker.com/user/jbreuer2/saved/gXCkJx">60 TB in-home workstation</a>
     built for streaming big data.<br/><br/> Aside from working full-time, I teach a data science course, R Programming in Economics, at Virginia Tech to help prepare students for transitioning from academia into industry upon graduation.
 </h3>
 
