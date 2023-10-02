@@ -14,22 +14,22 @@
     </a>
 </p>
 
-<h2>
+<h4>
     <u>About me:</u>
-</h2>
+</h4>
 
-<h3>
+<p>
     I'm a Data Scientist, Data Engineer, or Machine Learning Engineer depending on the day who enjoys productionizing analytics (typically natural language processing) and solving the problems posed by streaming big data at scale.  In my free time I work within my custom development environment on my 
     <a href="https://pcpartpicker.com/user/jbreuer2/saved/gXCkJx">60 TB in-home workstation</a>
     built for streaming big data.<br/><br/> Aside from working full-time, I teach a data science course, R Programming in Economics, at Virginia Tech to help prepare students for transitioning from academia into industry upon graduation.
-</h3>
+</p>
 
-<h2>
+<h4>
     <u>Technical Skills</u>:
-</h2>
+</h4>
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
@@ -66,9 +66,9 @@
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
 
-<h2> 
+<h4> 
     <u>My In-home Workstation Development Environment:</u>
-</h2>
+</h4>
 
 <b>CPUs</b>: 16-core Intel Xeon E5-2683 V4 (x2)<br/>
 <b>GPU</b>: Headless (on workstation), Nvidia 3090 RTX (on personal PC)<br/>
