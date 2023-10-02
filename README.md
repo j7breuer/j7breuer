@@ -2,6 +2,8 @@
 <h1 align="center">
     Hi there, I'm J Breuer
 </h1>
+
+
 <h3 align="center">
     <i>I go by J, my first name is legally just the letter "J"</i><br/><br/>
     How to reach me:<br/><br/>
@@ -14,6 +16,7 @@
 </h3>
 
 ***
+
 <h2>
     <u>About me:</u>
 </h2>
@@ -77,6 +80,7 @@
 <h2> 
     <u>My In-home Workstation Development Environment:</u>
 </h2>
+
 <b>CPUs</b>: 16-core Intel Xeon E5-2683 V4 (x2)<br/>
 <b>GPU</b>: Headless (on workstation), Nvidia 3090 RTX (on personal PC)<br/>
 <b>RAM</b>: 256 GB DDR4-2400 (8 x 32 GB)<br/> 
@@ -99,17 +103,3 @@
 
 ***
 
-<!--
-**j7breuer/j7breuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
