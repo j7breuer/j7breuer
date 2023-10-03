@@ -28,6 +28,25 @@
 ---
 
 <h3>
+    <u>Current Work:</u>
+</h3>
+
+<p align="center">
+    <a href="https://github.com/j7breuer/news-etl">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=j7breuer&repo=news-etl&show_owner=true"/>
+    </a>
+    <a href="https://github.com/j7breuer/webscraper-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=j7breuer&repo=webscraper-api&show_owner=true"/>
+    </a>
+    <a href="https://github.com/j7breuer/language-translation-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=j7breuer&repo=language-translation-api&show_owner=true"/>
+    </a>
+</p>
+
+
+---
+
+<h3>
     <u>Technical Skills</u>:
 </h3>
 
