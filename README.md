@@ -4,7 +4,6 @@
 </h1>
 
 <p align="center">
-    <i>I go by J, my first name is legally just the letter "J"</i><br/><br/>
     <b>How to reach me</b>:<br/>
     <a href="mailto:jmbreuer@vt.edu">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
