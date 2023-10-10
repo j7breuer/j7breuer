@@ -21,7 +21,7 @@
 
 <p>
     I'm a Data Scientist, Data Engineer, or Machine Learning Engineer depending on the day who enjoys productionizing analytics (typically natural language processing) and solving the problems posed by streaming big data at scale.  In my free time I work within my custom development environment on my 
-    <a href="https://pcpartpicker.com/user/jbreuer2/saved/gXCkJx">60 TB in-home workstation</a>
+    <a href="https://pcpartpicker.com/b/T8FG3C">60 TB in-home workstation</a>
     built for streaming big data.<br/><br/> Aside from working full-time, I teach a data science course, R Programming in Economics, at Virginia Tech to help prepare students for transitioning from academia into industry upon graduation.
 </p>
 
