@@ -72,7 +72,7 @@
 <b>GPU</b>: Headless (on workstation), Nvidia 3090 RTX (on personal PC)<br/>
 <b>RAM</b>: 256 GB DDR4-2400 (8 x 32 GB)<br/> 
 <b>Disk Space</b>: 60 TB HDD<br/>
-<b>OS</b>: Windows 10, CentOS (on servers)<br/>
+<b>OS</b>: Windows 10, CentOS7 (on servers)<br/>
 <b>Virtualization</b>: Hyper-V <br/>
 
 <h4>
